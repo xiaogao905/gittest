@@ -10,5 +10,6 @@ public class Main {
         System.out.println("push test01!");
         System.out.println("push test02!");
         System.out.println("push test03!");
+        System.out.println("push test04!");
     }
 }
